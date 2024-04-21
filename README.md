@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1qZvDDhu4mTFgg4S8uFx16JSn4VLurjx__EV__qK_sqE/
 ## Grooking System Design, all examples :
 https://docs.google.com/document/d/1HpNf0rX3vs75B6HUrqz6wvp45Vgtu8p222yVYFAhSMg/edit?usp=sharing
 <br>
+## System design handbooks:
+https://sauravprateek.me/swe-handbooks
+<br>
